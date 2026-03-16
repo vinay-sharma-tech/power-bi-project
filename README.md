@@ -1,4 +1,5 @@
--- Project Overview - 
+-- Project Overview 
+
 This project analyzes a Data Professional Survey dataset using Microsoft Power BI to understand trends in the data industry.
 The dashboard provides insights about salaries, programming languages, work satisfaction, and work-life balance among data professionals.
 The goal of this project is to transform raw survey data into an interactive dashboard that helps identify patterns and trends in the data analytics field.
@@ -21,11 +22,13 @@ The dashboard includes the following visualizations:
 
 Interactive filters and visuals help users explore the data easily
 
--- Author -
+-- Author
+
 Vinay Sharma,
 Aspiring Data Analyst with skills in:
 - Microsoft Power BI
 - Microsoft Excel
 - Python
-- SQL , 
-Interested in data analysis, visualization, and business insights. 
+- SQL
+   
+(Interested in data analysis, visualization, and business insights) 
