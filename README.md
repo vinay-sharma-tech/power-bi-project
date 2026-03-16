@@ -27,5 +27,5 @@ Aspiring Data Analyst with skills in:
 - Microsoft Power BI
 - Microsoft Excel
 - Python
-- SQL
+- SQL , 
 Interested in data analysis, visualization, and business insights. 
